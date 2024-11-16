@@ -1,4 +1,4 @@
-# README - Prática 1 de Processamento Digital de Sinais
+# Prática 1 de Processamento Digital de Sinais
 
 ## Descrição do Projeto
 Este projeto faz parte da disciplina de Processamento Digital de Sinais (ECO077) da Universidade Federal do Ceará, Campus Sobral. O objetivo principal desta prática é aplicar conceitos de geração, análise e filtragem de sinais digitais utilizando MATLAB. A seguir, é apresentado um resumo das atividades realizadas:
