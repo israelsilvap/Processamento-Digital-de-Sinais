@@ -7,7 +7,7 @@ signal = signal(:,1) + signal(:,2);
 sound(signal, Fs);
 
 % Definir o vetor de tempo
-t = (0:length(signal)-1) / Fs;
+t = (0:length(signal)-1) / Fs;A
 
 % Plotar o gráfico do sinal no tempo
 figure;
